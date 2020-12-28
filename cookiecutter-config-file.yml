@@ -1,0 +1,10 @@
+# This file contains values from Cookiecutter
+
+default_context:
+  project_name: "pymarkable"
+  project_description: "Python project with scritps and utilities for use with remarkable readers"
+  organization: "pymarkable"
+  license: "MIT"
+  version: "0.1.0"
+  github_name: "pymarkable"
+  email: "niall@niallmoran.net"
